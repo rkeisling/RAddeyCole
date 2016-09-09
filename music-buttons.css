@@ -14,8 +14,9 @@ h2 {
 }
 
 body {
-  background-image: url('https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif');
   background-color: #000000;
+  background-image: url('https://media.giphy.com/media/120ErahsQyf1q8/giphy.gif');
+  background-size: cover;
   margin-left: 5%;
   margin-top: 3%;
 }
